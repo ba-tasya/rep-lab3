@@ -1,0 +1,3 @@
+[submodule "gitflow-model"]
+	path = gitflow-model
+	url = https://github.com/ba-tasya/gitflow-model.git
